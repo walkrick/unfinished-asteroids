@@ -94,7 +94,7 @@
 
   cq.extend(cq, {
 
-    smoothing: true,
+    smoothing: false,
 
     blend: function(below, above, mode, mix) {
 
